@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="",SUPER ECRAN 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30933?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="",SUPER ECRAN 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30932?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 3 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30931?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 4 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30930?checkedby:hlscat.com

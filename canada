@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="sehd.jpg" group-title="",SUPER ECRAN 1 HD
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/GroupeSTI/iptv/blob/main/icons/sehd.png" group-title="",SUPER ECRAN 1 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30933?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="se2hd.jpg" group-title="",SUPER ECRAN 2 HD
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/GroupeSTI/iptv/blob/main/icons/se2hd.png" group-title="",SUPER ECRAN 2 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30932?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="se3hd.jpg" group-title="Undefined",SUPER ECRAN 3 HD
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/GroupeSTI/iptv/blob/main/icons/se3hd.png" group-title="Undefined",SUPER ECRAN 3 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30931?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="se4hd.jpg" group-title="Undefined",SUPER ECRAN 4 HD
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/GroupeSTI/iptv/blob/main/icons/se4hd.png" group-title="Undefined",SUPER ECRAN 4 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30930?checkedby:hlscat.com
